@@ -3,6 +3,7 @@
 ### About project
 
 - Output of images by tiles
+- Modal window when clicking on an image
 - Deleting cards
 - Search by ID
 - Pagination
